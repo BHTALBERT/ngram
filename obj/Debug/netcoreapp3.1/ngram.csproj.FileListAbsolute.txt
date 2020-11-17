@@ -1,0 +1,10 @@
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.exe
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.deps.json
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.runtimeconfig.json
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.runtimeconfig.dev.json
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.dll
+D:\Info3142Code\ngram\ngram\bin\Debug\netcoreapp3.1\ngram.pdb
+D:\Info3142Code\ngram\ngram\obj\Debug\netcoreapp3.1\ngram.AssemblyInfoInputs.cache
+D:\Info3142Code\ngram\ngram\obj\Debug\netcoreapp3.1\ngram.AssemblyInfo.cs
+D:\Info3142Code\ngram\ngram\obj\Debug\netcoreapp3.1\ngram.dll
+D:\Info3142Code\ngram\ngram\obj\Debug\netcoreapp3.1\ngram.pdb
